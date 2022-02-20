@@ -3,3 +3,15 @@ This is my new First project.
 To teach git to my colleague.
 Moreover i want to learn more and more from git, so that i have created my new repository.
 Instead of studying(theory), I am very much impressed to do practically. So I caould learn several things quickly.
+
+Trending things to learn:
+1.Java
+2.Python
+3.PHP
+4.C#
+5.Ruby
+6.Visual Studio Code
+7.Selenium
+8.TestNg
+9.JUnit
+10.Cucumber
